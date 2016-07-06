@@ -1,2 +1,3 @@
-Hello there, Git
-Updating readme with new info
+Hello there, Git.
+Updating readme with new info.
+This will all be over soon...
